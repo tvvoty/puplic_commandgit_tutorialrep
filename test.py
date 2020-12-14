@@ -3,3 +3,10 @@ def print_test():
 
 
 print_test()
+
+
+def newbranch():
+    print("This file is now on 'new_feature' branch")
+
+
+newbranch()
